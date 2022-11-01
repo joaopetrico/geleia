@@ -1,5 +1,6 @@
 # galeia-site
-# Joao Gabriel n 15
-# vinicyus n 33
-# joao cabral n 17
-# gabriel poleto n 9
+# Joao Gabriel nº 15 
+# vinicyus nº 33
+# joao cabral nº 17
+# gabriel poleto nº 9
+#jean nº 14
